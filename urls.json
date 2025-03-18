@@ -1,0 +1,17 @@
+[
+    "https://jsonplaceholder.typicode.com/posts",
+    "https://jsonplaceholder.typicode.com/comments",
+    "https://jsonplaceholder.typicode.com/albums",
+    "https://jsonplaceholder.typicode.com/photos",
+    "https://jsonplaceholder.typicode.com/todos",
+    "https://jsonplaceholder.typicode.com/users",
+    "https://dog.ceo/api/breeds/image/random",
+    "https://dog.ceo/api/breeds/list/all",
+    "https://dog.ceo/api/breed/hound/images",
+    "https://dog.ceo/api/breed/hound/list",
+    "https://catfact.ninja/fact",
+    "https://catfact.ninja/breeds",
+    "https://catfact.ninja/facts",
+    "https://catfact.ninja/facts?limit=5",
+    "https://catfact.ninja/facts?limit=10"
+]
